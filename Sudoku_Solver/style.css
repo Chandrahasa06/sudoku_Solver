@@ -72,6 +72,10 @@
     margin-right: 10px;
 }
 
+#GetPuzzle:hover,#SolvePuzzle:hover{
+    background-color: #7eacce;
+}
+
 .box{
     background-color: #decbb8;
     border: 2px solid  rgb(17, 17, 17);
